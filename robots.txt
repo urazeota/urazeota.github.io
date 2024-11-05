@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urazeota.github.io/Pqj/sitemap_index.txt
+Sitemap: https://urazeota.github.io/VEQ/sitemap_index.txt
+Sitemap: https://urazeota.github.io/oye/sitemap_index.txt
+Sitemap: https://urazeota.github.io/wMs/sitemap_index.txt
